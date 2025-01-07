@@ -1,0 +1,3 @@
+# PHP Loose Typing Bug
+
+This repository demonstrates a common issue in PHP related to loose typing and unexpected conditional statement behavior.  The `bug.php` file contains code that exhibits this unexpected behavior.  The `bugSolution.php` file provides a corrected version that addresses the problem and explains the fix.  This bug highlights the importance of careful type handling in PHP to avoid potential errors and unexpected outputs.
